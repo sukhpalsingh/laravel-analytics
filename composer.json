@@ -1,0 +1,16 @@
+{
+    "name": "sukhpalsingh/laravel-analytics",
+    "description": "Analytics for the laravel project",
+    "type": "library",
+    "require": {
+        "laravel/laravel": "7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sukhpal Singh",
+            "email": "sukhpalsingh@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
